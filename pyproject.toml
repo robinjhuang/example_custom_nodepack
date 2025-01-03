@@ -32,7 +32,7 @@ homepage = "https://github.com/robinjhuang/example_custom_nodepack"
 
 
 [tool.comfy]
-PublisherId = "robinjhuang"
+PublisherId = "robinken"
 DisplayName = "Example Custom Nodepack"
 Icon = ""
 
