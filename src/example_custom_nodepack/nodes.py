@@ -72,7 +72,7 @@ class Example:
             },
         }
 
-    RETURN_TYPES = ("IMAGE",)
+    RETURN_TYPES = ("FLOAT",)
     #RETURN_NAMES = ("image_output_name",)
     DESCRIPTION = cleandoc(__doc__)
     FUNCTION = "test"
