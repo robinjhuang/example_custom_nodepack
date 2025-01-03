@@ -1,4 +1,5 @@
 from inspect import cleandoc
+import sys  # This import will be unused
 class Example:
     """
     A example node
